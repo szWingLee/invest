@@ -40,7 +40,7 @@
 
 ## stock
 ### 红利
-银行稳妥
+银行稳妥    
 一些银行对比
 JPmorgan chase
 ![alt text](a664e451e2e95c3523dd95a63ed6d6e.jpg)
