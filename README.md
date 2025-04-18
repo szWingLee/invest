@@ -40,4 +40,18 @@
 
 ## stock
 ### 红利
+银行稳妥
+一些银行对比
+JPmorgan chase
+![alt text](a664e451e2e95c3523dd95a63ed6d6e.jpg)
+工商银行
+![alt text](934414c2024808ba8be8891918ee61e.jpg)
+最差的可能，三菱    
+![alt text](0e0411d745056909043e36d62481fe3.png)
+上证指数
+![alt text](3abc23feabc5bf328ada7b58617e27c.jpg)
+
+都远胜NASDAQ指数
+![alt text](f63e686b280f5a48e312bfa4ddd67d2.jpg)
+
 ### 优质股
